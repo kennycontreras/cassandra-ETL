@@ -18,7 +18,7 @@ All libraries you need to install. I recommend you to use `pip install`
 
 This project was created using Jupyter Notebook so first, make sure that you have all the tools to open .ipynb files
 
-You can find all the code for the ETL pile in the file ***Project_1B_Project_Template.ipynb***
+You can find all the code for the ETL pile in the file ***Project_1B_Cassandra.ipynb***
 
 The purpose of this project is to create tables based on 3 queries that the analytic team needs.
 You're going to find all the create statements, insert and select based on those 3 queries.
